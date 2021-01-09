@@ -1,0 +1,2 @@
+Mode = Encode
+CodingParams = configs\Reader\codingParams.txt

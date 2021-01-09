@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ArithmeticCoding:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ArithmeticCoding_jar</output-path>
+    <root id="archive" name="ArithmeticCoding.jar">
+      <element id="module-output" name="ArithmeticCoding" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Interfaces/java-lab-interfaces-master/interfaces.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

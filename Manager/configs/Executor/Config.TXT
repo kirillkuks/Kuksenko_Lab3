@@ -1,0 +1,6 @@
+InputFile = configs\Executor\input.txt
+ConfigForReader = configs\Executor\readerConfig.txt
+OutputFile = configs\Executor\output.txt
+ConfigForWriter = configs\Executor\writerConfig.txt
+ExecutorName = Coding.Coding = configs\Executor\codingConfig.txt
+Order = Reader = Coding.Coding = Writer

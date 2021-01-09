@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Writer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/artefacts/Writer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

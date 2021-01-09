@@ -1,0 +1,2 @@
+Mode = Encode
+CodingParams = configs\Writer\codingParams.txt

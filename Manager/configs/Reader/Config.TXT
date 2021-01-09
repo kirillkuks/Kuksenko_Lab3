@@ -1,0 +1,6 @@
+InputFile = configs\Reader\input.txt
+ConfigForReader = configs\Reader\readerConfig.txt
+OutputFile = configs\Reader\output.txt
+ConfigForWriter = configs\Reader\writerConfig.txt
+ExecutorName = ArithmeticCoding = configs\Reader\codingConfig.txt
+Order = Reader.Reader = ArithmeticCoding = Writer
